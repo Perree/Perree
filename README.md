@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Matías 👋
 
-<!--
-**Perree/Perree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de sonido y developer, con foco en la intersección entre **acústica** y **procesamiento de señales con Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formación
+
+- **Ingeniería de Sonido** — UNTREF, Buenos Aires *(en curso)*
+- **Técnico en Computación** — E.T. N° 35 *(graduado)*
+
+### 🔭 En qué estoy trabajando
+
+- Sistema de medición de respuesta en frecuencia por *sine sweep* en Raspberry Pi (generación de señal, deconvolución, análisis FFT).
+- Base en acústica, psicoacústica y física de ondas, aplicada a mediciones reales.
+
+### 🛠️ Lenguajes y herramientas
+
+`Python` (NumPy, SciPy) · `C` · `C++` · `.NET` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL` · `Raspberry Pi` · `Electrónica básica (soldadura, protoboard)`
+
+### 📫 Contacto
+
+- Email: matiasperree@gmail.com
+- LinkedIn: [in/matías-perrée](https://www.linkedin.com/in/mat%C3%ADas-perr%C3%A9e)

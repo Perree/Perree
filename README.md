@@ -1,6 +1,6 @@
 # ¡Hola! Soy Matías 👋
 
-Estudiante de sonido y developer, con foco en la intersección entre **acústica** y **procesamiento de señales con Python**.
+Estudiante de ingeniería de sonido y developer.
 
 ---
 
@@ -8,11 +8,6 @@ Estudiante de sonido y developer, con foco en la intersección entre **acústica
 
 - **Ingeniería de Sonido** — UNTREF, Buenos Aires *(en curso)*
 - **Técnico en Computación** — E.T. N° 35 *(graduado)*
-
-### 🔭 En qué estoy trabajando
-
-- Sistema de medición de respuesta en frecuencia por *sine sweep* en Raspberry Pi (generación de señal, deconvolución, análisis FFT).
-- Base en acústica, psicoacústica y física de ondas, aplicada a mediciones reales.
 
 ### 🛠️ Lenguajes y herramientas
 

@@ -1,19 +1,16 @@
-# ¡Hola! Soy Matías 👋
+Matías Perrée
+Engineering student (UNTREF) based in Buenos Aires, Argentina.
 
-Estudiante de ingeniería de sonido y developer.
+I like building solutions that save time: process automation, data analysis and applied AI. I'm looking for my first internship or part-time role.
 
----
+Projects
+[Loopwavy](https://loopwavy.com/): SaaS that automates prospecting of music producers on YouTube. Stack: TypeScript, Python, Supabase, YouTube, Gmail, Gemini, Dropbox and Telegram APIs; deployed on Vercel and Render.
+[Content App](https://github.com/Perree/video-type-beat-generator): YouTube content automation (weekly video creation, AI images, data analysis for SEO, automatic upload). Stack: Python, YouTube API, OpenAI API and Telegram API; runs on GitHub Actions.
+Technologies
+Python · TypeScript · JavaScript · SQL · Git · Java · C
 
-### 🎓 Formación
+Currently learning
+Programming fundamentals, data analysis and machine learning.
 
-- **Ingeniería de Sonido** — UNTREF, Buenos Aires *(en curso)*
-- **Técnico en Computación** — E.T. N° 35 *(graduado)*
-
-### 🛠️ Lenguajes y herramientas
-
-`Python` (NumPy, SciPy) · `C` · `C++` · `.NET` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL` · `Raspberry Pi` · `Electrónica básica (soldadura, protoboard)`
-
-### 📫 Contacto
-
-- Email: matiasperree@gmail.com
-- LinkedIn: [in/matías-perrée](https://www.linkedin.com/in/mat%C3%ADas-perr%C3%A9e)
+Contact
+LinkedIn: https://www.linkedin.com/in/mat%C3%ADas-perr%C3%A9e/ · Email: matiasperree@gmail.com
